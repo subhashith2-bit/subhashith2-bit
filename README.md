@@ -39,6 +39,6 @@ I'm preparing for **Data Analyst roles** and building practical projects to impr
 
 ### 📫 Connect with me
 
-- [LinkedIn](www.linkedin.com/in/subhashith-n-884a09403)
+- [LinkedIn](https://www.linkedin.com/in/subhashith-n-884a09403)
 - [GitHub](https://github.com/subhashith2-bit)
 
